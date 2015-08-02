@@ -1,2 +1,2 @@
 # joshnankivel.github.io
-playing with Python
+playing with [Python](https://github.com/joshnankivel/joshnankivel.github.io/tree/master/learnpythonthehardway)
