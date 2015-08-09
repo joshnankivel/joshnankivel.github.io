@@ -1,4 +1,4 @@
 # joshnankivel.github.io
 playing with [Python](https://github.com/joshnankivel/joshnankivel.github.io/tree/master/learnpythonthehardway)
 
-[Next lesson](http://learnpythonthehardway.org/book/ex31.html)
+[Next lesson](http://learnpythonthehardway.org/book/ex32.html)
